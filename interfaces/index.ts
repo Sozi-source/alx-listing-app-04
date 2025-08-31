@@ -32,4 +32,5 @@ propertyId: number,
     avatar: string,
     rating: number,
     comment: string
+    id: string|number
 }
